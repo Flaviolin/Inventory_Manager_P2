@@ -240,7 +240,7 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "4.1.2"
-  inventory_manager:
+  Inventory_Manager_P2:
     dependency: "direct main"
     description:
       path: "../.."

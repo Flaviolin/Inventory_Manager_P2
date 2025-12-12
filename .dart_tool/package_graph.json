@@ -1,10 +1,10 @@
 {
   "roots": [
-    "inventory_manager"
+    "Inventory_Manager_P2"
   ],
   "packages": [
     {
-      "name": "inventory_manager",
+      "name": "Inventory_Manager_P2",
       "version": "1.0.0+1",
       "dependencies": [
         "cloud_firestore",

@@ -1,6 +1,6 @@
 {
-    "name": "inventory_manager",
-    "short_name": "inventory_manager",
+    "name": "Inventory_Manager_P2",
+    "short_name": "Inventory_Manager_P2",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

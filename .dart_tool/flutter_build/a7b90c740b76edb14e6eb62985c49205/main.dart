@@ -1,5 +1,5 @@
 // @dart=3.9
-// Flutter web bootstrap script for package:inventory_manager/main.dart.
+// Flutter web bootstrap script for package:Inventory_Manager_P2/main.dart.
 //
 // Generated file. Do not edit.
 //
@@ -9,7 +9,7 @@
 import 'dart:ui_web' as ui_web;
 import 'dart:async';
 
-import 'package:inventory_manager/main.dart' as entrypoint;
+import 'package:Inventory_Manager_P2/main.dart' as entrypoint;
 import 'web_plugin_registrant.dart' as pluginRegistrant;
 
 typedef _UnaryFunction = dynamic Function(List<String> args);
